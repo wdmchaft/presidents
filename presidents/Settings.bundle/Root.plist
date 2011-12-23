@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Settings</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>Use gestures to swipe left and right to navigate, up to view info and down to dismiss info.</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>useGestures</string>
+			<key>Title</key>
+			<string>Navigation Gestures</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>About</string>
+			<key>FooterText</key>
+			<string>2011 Will Coughlin</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>1</string>
+			<key>Key</key>
+			<string>version</string>
+			<key>Title</key>
+			<string>Version</string>
+			<key>Titles</key>
+			<array>
+				<string>1.0.0 (073)</string>
+			</array>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Values</key>
+			<array>
+				<string>1</string>
+			</array>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

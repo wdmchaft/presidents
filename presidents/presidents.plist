@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<array>
+		<string>George Washington</string>
+		<string>February 22, 1732 – December 14, 1799</string>
+		<string>Westmoreland, Virginia</string>
+		<string>April 30, 1789 – March 4, 1797</string>
+		<string>Non-partisan</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/George_Washington</string>
+			<string>http://www.whitehouse.gov/about/presidents/georgewashington</string>
+		</array>
+		<string>i0.png</string>
+		<string>0.jpg</string>
+	</array>
+	<key>1</key>
+	<array>
+		<string>John Adams</string>
+		<string>October 30, 1735 – July 4, 1826</string>
+		<string>Braintree, Massachusetts</string>
+		<string>March 4, 1797 – March 4, 1801</string>
+		<string>Federalist</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/John_Adams</string>
+			<string>http://www.whitehouse.gov/about/presidents/johnadams</string>
+		</array>
+		<string>i1.png</string>
+		<string>1.jpg</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>Thomas Jefferson</string>
+		<string>April 13, 1743 – July 4, 1826</string>
+		<string>Shadwell, Virginia</string>
+		<string>March 4, 1801 – March 4, 1809</string>
+		<string>Democratic-Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Thomas_Jefferson</string>
+			<string>http://www.whitehouse.gov/about/presidents/thomasjefferson</string>
+		</array>
+		<string>i2.png</string>
+		<string>2.jpg</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>James Madison</string>
+		<string>March 16, 1751 – June 28, 1836</string>
+		<string>Port Conway, Virginia</string>
+		<string>March 4, 1809 – March 4, 1817</string>
+		<string>Democratic-Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/James_Madison</string>
+			<string>http://www.whitehouse.gov/about/presidents/jamesmadison</string>
+		</array>
+		<string>i3.png</string>
+		<string>3.jpg</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>James Monroe</string>
+		<string>April 28, 1758 – July 4, 1831</string>
+		<string>Westmoreland, Virginia</string>
+		<string>March 4, 1817 – March 4, 1825</string>
+		<string>Democratic-Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/James_Monroe</string>
+			<string>http://www.whitehouse.gov/about/presidents/jamesmonroe</string>
+		</array>
+		<string>i4.png</string>
+		<string>4.jpg</string>
+	</array>
+	<key>5</key>
+	<array>
+		<string>John Quincy Adams</string>
+		<string>July 11, 1767 – February 23, 1848</string>
+		<string>Braintree, Massachusetts</string>
+		<string>March 4, 1825 – March 4, 1829</string>
+		<string>Democratic-Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/John_Quincy_Adams</string>
+			<string>http://www.whitehouse.gov/about/presidents/johnquincyadams</string>
+		</array>
+		<string>i5.png</string>
+		<string>5.jpg</string>
+	</array>
+	<key>6</key>
+	<array>
+		<string>Andrew Jackson</string>
+		<string>March 15, 1767 – June 8, 1845</string>
+		<string>Waxhaw, South Carolina</string>
+		<string>March 4, 1829 – March 4, 1837</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Andrew_Jackson</string>
+			<string>http://www.whitehouse.gov/about/presidents/andrewjackson</string>
+		</array>
+		<string>i6.png</string>
+		<string>6.jpg</string>
+	</array>
+	<key>7</key>
+	<array>
+		<string>Martin Van Buren</string>
+		<string>December 5, 1782 – July 24, 1862</string>
+		<string>Kinderhook, New York</string>
+		<string>March 4, 1837 – March 4, 1841</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Martin_Van_Buren</string>
+			<string>http://www.whitehouse.gov/about/presidents/martinvanburen</string>
+		</array>
+		<string>i7.png</string>
+		<string>7.jpg</string>
+	</array>
+	<key>8</key>
+	<array>
+		<string>William Henry Harrison</string>
+		<string>February 9, 1773 – April 4, 1841</string>
+		<string>Charles City, Virginia</string>
+		<string>March 4, 1841 – April 4, 1841</string>
+		<string>Whig</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/William_Henry_Harrison</string>
+			<string>http://www.whitehouse.gov/about/presidents/williamhenryharrison</string>
+		</array>
+		<string>i8.png</string>
+		<string>8.jpg</string>
+	</array>
+	<key>9</key>
+	<array>
+		<string>John Tyler</string>
+		<string>March 29, 1790 – January 18, 1862d</string>
+		<string>Charles City, Virginia</string>
+		<string>April 4, 1841 – March 4, 1845</string>
+		<string>Whig</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/John_Tyler</string>
+			<string>http://www.whitehouse.gov/about/presidents/johntyler</string>
+		</array>
+		<string>i9.png</string>
+		<string>9.jpg</string>
+	</array>
+	<key>10</key>
+	<array>
+		<string>James K. Polk</string>
+		<string>November 2, 1795 – June 15, 1849</string>
+		<string>Pineville, North Carolina</string>
+		<string>March 4, 1845 – March 4, 1849</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/James_K._Polk</string>
+			<string>http://www.whitehouse.gov/about/presidents/jamespolk</string>
+		</array>
+		<string>i10.png</string>
+		<string>10.jpg</string>
+	</array>
+	<key>11</key>
+	<array>
+		<string>Zachary Taylor</string>
+		<string>November 24, 1784 – July 9, 1850</string>
+		<string>Barboursville, Virginia</string>
+		<string>March 4, 1849 – July 9, 1850</string>
+		<string>Whig</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Zachary_Taylor</string>
+			<string>http://www.whitehouse.gov/about/presidents/zacharytaylor</string>
+		</array>
+		<string>i11.png</string>
+		<string>11.jpg</string>
+	</array>
+	<key>12</key>
+	<array>
+		<string>Millard Filmore</string>
+		<string>January 7, 1800 – March 8, 1874</string>
+		<string>Summerhill, New York</string>
+		<string>July 9, 1850 – March 4, 1853</string>
+		<string>Whig</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Millard_Fillmore</string>
+			<string>http://www.whitehouse.gov/about/presidents/millardfillmore</string>
+		</array>
+		<string>i12.png</string>
+		<string>12.jpg</string>
+	</array>
+	<key>13</key>
+	<array>
+		<string>Franklin Pierce</string>
+		<string>November 23, 1804 – October 8, 1869</string>
+		<string>Hillsborough, New Hampshire</string>
+		<string>March 4, 1853 – March 4, 1857</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Franklin_Pierce</string>
+			<string>http://www.whitehouse.gov/about/presidents/franklinpierce</string>
+		</array>
+		<string>i13.png</string>
+		<string>13.jpg</string>
+	</array>
+	<key>14</key>
+	<array>
+		<string>James Buchanan</string>
+		<string>April 23, 1791 – June 1, 1868</string>
+		<string>Mercersburg, Pennsylvania</string>
+		<string>March 4, 1857 – March 4, 1861</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/James_Buchanan</string>
+			<string>http://www.whitehouse.gov/about/presidents/jamesbuchanan</string>
+		</array>
+		<string>i14.png</string>
+		<string>14.jpg</string>
+	</array>
+	<key>15</key>
+	<array>
+		<string>Abraham Lincoln</string>
+		<string>February 12, 1809 – April 15, 1865</string>
+		<string>Hodgenville, Kentucky</string>
+		<string>March 4, 1861 – April 15, 1865</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Abraham_Lincoln</string>
+			<string>http://www.whitehouse.gov/about/presidents/abrahamlincoln</string>
+		</array>
+		<string>i15.png</string>
+		<string>15.jpg</string>
+	</array>
+	<key>16</key>
+	<array>
+		<string>Andrew Johnson</string>
+		<string>December 29, 1808 – July 31, 1875</string>
+		<string>Raleigh, North Carolina</string>
+		<string>April 15, 1865 – March 4, 1869</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Abraham_Lincoln</string>
+			<string>http://www.whitehouse.gov/about/presidents/andrewjohnson</string>
+		</array>
+		<string>i16.png</string>
+		<string>16.jpg</string>
+	</array>
+	<key>17</key>
+	<array>
+		<string>Ulysses S. Grant</string>
+		<string>April 27, 1822 – July 23, 1885</string>
+		<string>Point Pleasant, Ohio</string>
+		<string>March 4, 1869 – March 4, 1877</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Ulysses_S._Grant</string>
+			<string>http://www.whitehouse.gov/about/presidents/ulyssessgrant</string>
+		</array>
+		<string>i17.png</string>
+		<string>17.jpg</string>
+	</array>
+	<key>18</key>
+	<array>
+		<string>Rutherford B. Hayes</string>
+		<string>October 4, 1822 – January 17, 1893</string>
+		<string>Delaware, Ohio</string>
+		<string>March 4, 1877 – March 4, 1881</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Rutherford_B._Hayes</string>
+			<string>http://www.whitehouse.gov/about/presidents/rutherfordbhayes</string>
+		</array>
+		<string>i18.png</string>
+		<string>18.jpg</string>
+	</array>
+	<key>19</key>
+	<array>
+		<string>James Garfield</string>
+		<string>November 19, 1831 – September 19, 1881</string>
+		<string>Moreland Hills, Ohio</string>
+		<string>March 4, 1881 – September 19, 1881</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/James_A._Garfield</string>
+			<string>http://www.whitehouse.gov/about/presidents/jamesgarfield</string>
+		</array>
+		<string>i19.png</string>
+		<string>19.jpg</string>
+	</array>
+	<key>20</key>
+	<array>
+		<string>Chester A. Arthur</string>
+		<string>October 5, 1829 – November 18, 1886</string>
+		<string>Fairfield, Vermont</string>
+		<string>September 19, 1881 – March 4, 1885</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Chester_A._Arthur</string>
+			<string>http://www.whitehouse.gov/about/presidents/chesterarthur</string>
+		</array>
+		<string>i20.png</string>
+		<string>20.jpg</string>
+	</array>
+	<key>21</key>
+	<array>
+		<string>Grover Cleveland</string>
+		<string>March 18, 1837 – June 24, 1908</string>
+		<string>Caldwell, New Jersey</string>
+		<string>March 4, 1885 - March 4, 1889</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Grover_Cleveland</string>
+			<string>http://www.whitehouse.gov/about/presidents/grovercleveland22</string>
+		</array>
+		<string>i21.png</string>
+		<string>21.jpg</string>
+	</array>
+	<key>22</key>
+	<array>
+		<string>Benjamin Harrison</string>
+		<string>August 20, 1833 – March 13, 1901</string>
+		<string>North Bend, Ohio</string>
+		<string>March 4, 1889 – March 4, 1893</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Benjamin_Harrison</string>
+			<string>http://www.whitehouse.gov/about/presidents/benjaminharrison</string>
+		</array>
+		<string>i22.png</string>
+		<string>22.jpg</string>
+	</array>
+	<key>23</key>
+	<array>
+		<string>Grover Cleveland</string>
+		<string>March 18, 1837 – June 24, 1908</string>
+		<string>Caldwell, New Jersey</string>
+		<string>March 4, 1893 – March 4, 1897</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Grover_Cleveland</string>
+			<string>http://www.whitehouse.gov/about/presidents/grovercleveland24</string>
+		</array>
+		<string>i23.png</string>
+		<string>23.jpg</string>
+	</array>
+	<key>24</key>
+	<array>
+		<string>William McKinley</string>
+		<string>January 29, 1843 – September 14, 1901</string>
+		<string>Niles, Ohio</string>
+		<string>March 4, 1897 – September 14, 1901</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/William_McKinley</string>
+			<string>http://www.whitehouse.gov/about/presidents/williammckinley</string>
+		</array>
+		<string>i24.png</string>
+		<string>24.jpg</string>
+	</array>
+	<key>25</key>
+	<array>
+		<string>Theodore Roosevelt</string>
+		<string>October 27, 1858 – January 6, 1919</string>
+		<string>New York, New York</string>
+		<string>September 14, 1901 – March 4, 1909</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Theodore_Roosevelt</string>
+			<string>http://www.whitehouse.gov/about/presidents/theodoreroosevelt</string>
+		</array>
+		<string>i25.png</string>
+		<string>25.jpg</string>
+	</array>
+	<key>26</key>
+	<array>
+		<string>William Howard Taft</string>
+		<string>September 15, 1857 – March 8, 1930</string>
+		<string>Cincinnati, Ohio</string>
+		<string>March 4, 1909 – March 4, 1913</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/William_Howard_Taft</string>
+			<string>http://www.whitehouse.gov/about/presidents/williamhowardtaft</string>
+		</array>
+		<string>i26.png</string>
+		<string>26.jpg</string>
+	</array>
+	<key>27</key>
+	<array>
+		<string>Woodrow Wilson</string>
+		<string>December 28, 1856 – February 3, 1924</string>
+		<string>Staunton, Virginia</string>
+		<string>March 4, 1913 – March 4, 1921</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Woodrow_Wilson</string>
+			<string>http://www.whitehouse.gov/about/presidents/woodrowwilson</string>
+		</array>
+		<string>i27.png</string>
+		<string>27.jpg</string>
+	</array>
+	<key>28</key>
+	<array>
+		<string>Warren G. Harding</string>
+		<string>November 2, 1865 – August 2, 1923</string>
+		<string>Blooming Grove, Ohio</string>
+		<string>March 4, 1921 – August 2, 1923</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Warren_G._Harding</string>
+			<string>http://www.whitehouse.gov/about/presidents/warrenharding</string>
+		</array>
+		<string>i28.png</string>
+		<string>28.jpg</string>
+	</array>
+	<key>29</key>
+	<array>
+		<string>Calvin Coolidge</string>
+		<string>July 4, 1872 – January 5, 1933</string>
+		<string>Plymouth, Vermont</string>
+		<string>August 2, 1923 – March 4, 1929</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Calvin_Coolidge</string>
+			<string>http://www.whitehouse.gov/about/presidents/calvincoolidge</string>
+		</array>
+		<string>i29.png</string>
+		<string>29.jpg</string>
+	</array>
+	<key>30</key>
+	<array>
+		<string>Herbert Hoover</string>
+		<string>August 10, 1874 – October 20, 1964</string>
+		<string>West Branch, Iowa</string>
+		<string>March 4, 1929 – March 4, 1933</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Herbert_Hoover</string>
+			<string>http://www.whitehouse.gov/about/presidents/herberthoover</string>
+		</array>
+		<string>i30.png</string>
+		<string>30.jpg</string>
+	</array>
+	<key>31</key>
+	<array>
+		<string>Franklin D. Roosevelt</string>
+		<string>January 30, 1882 – April 12, 1945</string>
+		<string>Hyde Park, New York</string>
+		<string>March 4, 1933 – April 12, 1945</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Franklin_D._Roosevelt</string>
+			<string>http://www.whitehouse.gov/about/presidents/franklindroosevelt</string>
+		</array>
+		<string>i31.png</string>
+		<string>31.jpg</string>
+	</array>
+	<key>32</key>
+	<array>
+		<string>Harry S. Truman</string>
+		<string>May 8, 1884 – December 26, 1972</string>
+		<string>Lamar, Missouri</string>
+		<string>April 12, 1945 – January 20, 1953</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Harry_S._Truman</string>
+			<string>http://www.whitehouse.gov/about/presidents/harrystruman</string>
+		</array>
+		<string>i32.png</string>
+		<string>32.jpg</string>
+	</array>
+	<key>33</key>
+	<array>
+		<string>Dwight D. Eisenhower</string>
+		<string>October 14, 1890 – March 28, 1969</string>
+		<string>Denison, Texas</string>
+		<string>January 20, 1953 – January 20, 1961</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Dwight_D._Eisenhower</string>
+			<string>http://www.whitehouse.gov/about/presidents/dwightdeisenhower</string>
+		</array>
+		<string>i33.png</string>
+		<string>33.jpg</string>
+	</array>
+	<key>34</key>
+	<array>
+		<string>John F. Kennedy</string>
+		<string>May 29, 1917 – November 22, 1963</string>
+		<string>Brookline, Massachusetts</string>
+		<string>January 20, 1961 – November 22, 1963</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/John_F._Kennedy</string>
+			<string>http://www.whitehouse.gov/about/presidents/johnfkennedy</string>
+		</array>
+		<string>i34.png</string>
+		<string>34.jpg</string>
+	</array>
+	<key>35</key>
+	<array>
+		<string>Lyndon B. Johnson</string>
+		<string>August 27, 1908 – January 22, 1973</string>
+		<string>Stonewall, Texas</string>
+		<string>November 22, 1963 – January 20, 1969</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Lyndon_B._Johnson</string>
+			<string>http://www.whitehouse.gov/about/presidents/lyndonbjohnson</string>
+		</array>
+		<string>i35.png</string>
+		<string>35.jpg</string>
+	</array>
+	<key>36</key>
+	<array>
+		<string>Richard M. Nixon</string>
+		<string>January 9, 1913 – April 22, 1994</string>
+		<string>Yorba Linda, California</string>
+		<string>January 20, 1969 – August 9, 1974</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Richard_Nixon</string>
+			<string>http://www.whitehouse.gov/about/presidents/richardnixon</string>
+		</array>
+		<string>i36.png</string>
+		<string>36.jpg</string>
+	</array>
+	<key>37</key>
+	<array>
+		<string>Gerald R. Ford</string>
+		<string>July 14, 1913 – December 26, 2006</string>
+		<string>Omaha, Nebraska</string>
+		<string>August 9, 1974 – January 20, 1977</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Gerald_Ford</string>
+			<string>http://www.whitehouse.gov/about/presidents/geraldford</string>
+		</array>
+		<string>i37.png</string>
+		<string>37.jpg</string>
+	</array>
+	<key>38</key>
+	<array>
+		<string>Jimmy Carter</string>
+		<string>October 1, 1924 -</string>
+		<string>Plains, Georgia</string>
+		<string>January 20, 1977 – January 20, 1981</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Jimmy_Carter</string>
+			<string>http://www.whitehouse.gov/about/presidents/jimmycarter</string>
+		</array>
+		<string>i38.png</string>
+		<string>38.jpg</string>
+	</array>
+	<key>39</key>
+	<array>
+		<string>Ronald Reagan</string>
+		<string>February 6, 1911 – June 5, 2004</string>
+		<string>Tampico, Illinois</string>
+		<string>January 20, 1981 – January 20, 1989</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Ronald_Reagan</string>
+			<string>http://www.whitehouse.gov/about/presidents/ronaldreagan</string>
+		</array>
+		<string>i39.png</string>
+		<string>39.jpg</string>
+	</array>
+	<key>40</key>
+	<array>
+		<string>George H.W. Bush</string>
+		<string>June 12, 1924 - </string>
+		<string>Milton,  Massachusetts</string>
+		<string>January 20, 1989 – January 20, 1993</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/George_H._W._Bush</string>
+			<string>http://www.whitehouse.gov/about/presidents/georgehwbush</string>
+		</array>
+		<string>i40.png</string>
+		<string>40.jpg</string>
+	</array>
+	<key>41</key>
+	<array>
+		<string>Bill Clinton</string>
+		<string>August 19, 1946 - </string>
+		<string>Hope, Arkansas</string>
+		<string>January 20, 1993 – January 20, 2001</string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Bill_Clinton</string>
+			<string>http://www.whitehouse.gov/about/presidents/williamjclinton</string>
+		</array>
+		<string>i41.png</string>
+		<string>40.jpg</string>
+	</array>
+	<key>42</key>
+	<array>
+		<string>George W. Bush</string>
+		<string>July 6, 1946 - </string>
+		<string>New Haven, Connecticut</string>
+		<string>January 20, 2001 – January 20, 2009</string>
+		<string>Republican</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/George_W._Bush</string>
+			<string>http://www.whitehouse.gov/about/presidents/georgewbush</string>
+		</array>
+		<string>i42.png</string>
+		<string>42.jpg</string>
+	</array>
+	<key>43</key>
+	<array>
+		<string>Barack Obama</string>
+		<string>August 4, 1961 - </string>
+		<string>Honolulu, Hawaii</string>
+		<string>(Incumbent) January 20, 2009 - </string>
+		<string>Democratic</string>
+		<array>
+			<string>http://en.wikipedia.org/wiki/Barack_Obama</string>
+			<string>http://www.whitehouse.gov/about/presidents/barackobama</string>
+		</array>
+		<string>i43.png</string>
+		<string>43.jpg</string>
+	</array>
+</dict>
+</plist>
